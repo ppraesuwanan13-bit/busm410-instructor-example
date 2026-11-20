@@ -39,3 +39,4 @@ This is a worked example of the BUSM 410 semester project. I used public data in
 | [Other/audit_log.md](Other/audit_log.md) | Examples of me catching and correcting the agent |
 | [.agents/skills/project-audit/SKILL.md](.agents/skills/project-audit/SKILL.md) | Tells the agent how to keep the audit records |
 | [.gitignore](.gitignore) | Keeps private files off GitHub |
+
